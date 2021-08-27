@@ -1,2 +1,2 @@
 # Rice_Disease_Detection
-![](screen-capture (7).gif)
+![](https://github.com/seabnavin19/Rice_Disease_Detection/blob/main/screen-capture%20(7).gif)
